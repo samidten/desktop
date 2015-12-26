@@ -1,1 +1,1 @@
-this is cool
+Desktop config of Samid
